@@ -1,0 +1,11 @@
+C:\Users\gense\OneDrive\Documents\Genser-U\Graficas\laboratorios\Lab2-Graficas\lab2\target\debug\deps\gif-937c986ddc8a131d.d: C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md
+
+C:\Users\gense\OneDrive\Documents\Genser-U\Graficas\laboratorios\Lab2-Graficas\lab2\target\debug\deps\libgif-937c986ddc8a131d.rmeta: C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md
+
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs:
+C:\Users\gense\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md:

@@ -1,0 +1,1 @@
+/mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab2-Graficas/lab2/target/debug/lab2: /mnt/c/Users/gense/OneDrive/Documents/Genser-U/Graficas/laboratorios/Lab2-Graficas/lab2/src/main.rs
